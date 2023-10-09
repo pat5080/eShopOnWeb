@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-github
   LOCATION: eastau
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: 538e456b-2823-4cf4-85ea-9a47bac6d043
+  SUBSCRIPTION-ID: dfb4b10e-3b1d-422f-9b06-d63451ebd249
   WEBAPP-NAME: az400-webapp-test555
 
 
